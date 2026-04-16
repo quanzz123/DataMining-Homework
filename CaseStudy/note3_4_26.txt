@@ -1,0 +1,2 @@
+-có thể dùng thêm những cái khac ngoài grid search
+- dùng các .. có sẵn cho việc loại bỏ thuộc tinnhs
